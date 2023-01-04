@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Adfree Flashlight</string>
+    <string name="action_about">About</string>
+    <string name="Flashstr">Flashlight</string>
+    <string name="title_activity_about">About</string>
+    <string name="version">V 1.0.2</string>
+    <string name="devby">Developed by:</string>
+    <string name="myname">Kashif Anwaar</string>
+    <string name="checktext">Run in background</string>
+    <string name="action_help">Instructions</string>
+    <string name="title_activity_help">Instructions</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="desc">App Description</string>
+    
+    <string name="appinfo">Use your phones flashlight as Torch to use in the dark. There are similar apps but this one is 100% free - without ads.</string>
+	
+	<string name="offdesc">By default Flashlight will turn On.   This Button will be displayed only when Flashlight is On, Touch this button to Turn Off flashlight.</string>
+	<string name="ondesc">This Button will be displayed only when Flashlight is Off, Touch this button to Turn On flashlight.</string>
+	<string name="checkdesc">By default it is unchecked, when you tick or check this box Flashlight will run in the background ie: after locked, screen off, viewing other apps</string>
+	
+	<color name="green">#88b421</color>
+	<color name="red">#f20000</color>
+	<color name="black">#333</color>
+	<color name="white">#fff</color>
+
+	
+	
+
+</resources>
